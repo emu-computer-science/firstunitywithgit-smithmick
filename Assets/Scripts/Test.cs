@@ -5,6 +5,7 @@ using UnityEngine;
 public class Test : MonoBehaviour
 {
 	//SEAN MICK CHANGED SOME STUFF
+	//Elijah added some stuff
     // Start is called before the first frame update
     void Start()
     {
